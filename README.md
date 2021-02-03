@@ -5,10 +5,10 @@ It will automatically recreate tab bar when you create, rename, remove nodes in 
 
 **Known bugs & defects:**
 
-Do not responde to duplicating node immediately.
+* Do not responde to duplicating node immediately.
 
-No export vars for custom styles, tab_align, etc... on parent class.
+* No export vars for custom styles, tab_align, etc... on parent class.
 
-Hardcoded label margins.
+* Hardcoded label margins.
 
 ![screenshot](https://raw.githubusercontent.com/rambda/godot-vertical-tab-container/master/v_tab_container_screenshot.png)
