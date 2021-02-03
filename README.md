@@ -11,4 +11,4 @@ No export vars for custom styles, tab_align, etc... on parent class.
 
 Hardcoded label margins.
 
-![screenshot](https://raw.githubusercontent.com/rambda/godot-vertical-tab-container/main/v_tab_container_screenshot.png)
+![screenshot](https://raw.githubusercontent.com/rambda/godot-vertical-tab-container/master/v_tab_container_screenshot.png)
